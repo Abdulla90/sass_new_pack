@@ -1,0 +1,17 @@
+{
+  "name": "sass_starter_pack",
+  "version": "1.0.0",
+  "description": "Sass Starter Package",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "Abdulla Shaikh",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1"
+  }
+}
